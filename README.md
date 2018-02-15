@@ -1,4 +1,4 @@
-# docker-mms-monitoring
+# MMS Monitoring Agent
 Minimal docker container for running the MMS/MongoDB Cloud Manager Monitoring Agent
 
 ## Usage
